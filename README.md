@@ -1,9 +1,7 @@
-### Hi there 👋
+# João Nagao 1°a
 
-<!--
-**ipu1d/ipu1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Jogo bola 
+#### namoro com a minha namorada 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
