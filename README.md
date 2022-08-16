@@ -3,6 +3,8 @@
 ### Jogo bola
 ### pro player de cs e valorant
 # namoro com a minha namorada 
+![image](https://user-images.githubusercontent.com/110929048/184942831-a44d769e-d32b-4624-b8d3-9a842c212309.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
