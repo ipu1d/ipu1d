@@ -1,7 +1,8 @@
 # João Nagao 1°a
 
-### Jogo bola 
-#### namoro com a minha namorada 
+### Jogo bola
+### pro player de cs e valorant
+# namoro com a minha namorada 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
